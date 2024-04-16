@@ -17,7 +17,7 @@ public class ClockHand {
         }
     }
 
-    public int value() {
+    public int getValue() {
         return this.value;
     }
 
