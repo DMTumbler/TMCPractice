@@ -19,4 +19,17 @@ public class SimpleCollection {
         return this.elements;
     }
 
+    public String longest() {
+        String switchElement = "";
+        if (elements.isEmpty()) {
+            return null;
+        }
+        for (String element : elements) {
+            if (switchElement.length() < element.length()) {
+                switchElement = element;
+            }
+        }
+        return switchElement;
+    }
+
 }
