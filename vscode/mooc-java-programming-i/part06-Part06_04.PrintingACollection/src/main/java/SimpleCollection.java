@@ -21,15 +21,20 @@ public class SimpleCollection {
 
     public String toString() {
         String names = "", present = "";
-        if (elements.size() > 1) {
-            present = "The collection " + this.name + " has " + this.elements.size() + " elements:\n";
-        }
         if (elements.isEmpty()) {
             return "The collection " + this.name + " is empty.";
         }
+
+        present = "The collection " + this.name + " has " + this.elements.size() + " elements:\n";
+        if (elements.size() == 1) {
+            present = "The collection " + this.name + " has " + this.elements.size() + " element:\n";
+            return present + elements.get(0);
+        }
+
         for (String name : elements) {
             names += name + "\n";
         }
+
         return present + names;
 
     }
