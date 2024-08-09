@@ -1,0 +1,109 @@
+course = "mooc-programming-23"
+
+[exercises.part03-16_framed_word]
+id = 193577
+checksum = "0312e78cbe22da18a265d036778f0478"
+
+[exercises.part03-22_second_occurrence]
+id = 193565
+checksum = "9ecdf70727fc1dfe5d691b95f9bf6a68"
+
+[exercises.part03-26_flip_the_pairs]
+id = 193557
+checksum = "41025258a740bcc638d7ff3a02e58934"
+
+[exercises.part03-27_taking_turns]
+id = 193564
+checksum = "a65c4d123e743d01201a28be50672032"
+
+[exercises.part03-34_word_squared]
+id = 193573
+checksum = "0e6a2ffcf604f2f71c1f64e5a1842317"
+
+[exercises.part04-01_hello_visual_studio_code]
+id = 193519
+checksum = "53f03b6ad926b8a798faf5acc5c1c1b5"
+
+[exercises.part04-02_line]
+id = 193522
+checksum = "d74744a81be733c6e8bdfc4d61aedd3d"
+
+[exercises.part04-03_box_of_hashes]
+id = 193512
+checksum = "2ad5ccea27a7dc0aeb9a160653c6a6e2"
+
+[exercises.part04-04_square_of_hashes]
+id = 193504
+checksum = "0d8c756c7849f44be46d86255dfc7e20"
+
+[exercises.part04-05_square]
+id = 193515
+checksum = "656bd123c3abcd5308f32f2facbf10a3"
+
+[exercises.part04-06_triangle]
+id = 193532
+checksum = "e1cd790d29d224e62f8a9b9fffdf71e2"
+
+[exercises.part04-07_shape]
+id = 193509
+checksum = "48473fc896ec8a81ebf7d74a61e8caa6"
+
+[exercises.part04-08_spruce]
+id = 193528
+checksum = "473dea7561a5d99957237a496f1bd001"
+
+[exercises.part04-09_greatest_number]
+id = 193514
+checksum = "851b802b108fcb725314a6bfc515099a"
+
+[exercises.part04-10_same_characters]
+id = 193531
+checksum = "22bb796e39ea2b330e13b259bae47ab2"
+
+[exercises.part04-11_first_second_last]
+id = 193505
+checksum = "2e96877cddd73f1c1c59492d1a0c9b40"
+
+[exercises.part04-12_change_value_of_item]
+id = 193506
+checksum = "517fdd26d4eca78d44ae452f0371ac61"
+
+[exercises.part04-13_add_items_to_list]
+id = 193499
+checksum = "d82d708ac36a01721afe2f65cf1a65d7"
+
+[exercises.part04-14_addition_and_removal]
+id = 193523
+checksum = "0106c35f0f0e7543f3413c4f2189f295"
+
+[exercises.part04-15_same_word_twice]
+id = 193529
+checksum = "d95508225b8d45f01551f1846e6b0242"
+
+[exercises.part04-16_list_twice]
+id = 193511
+checksum = "6ccbc749edad6c6d5e7dce779f670604"
+
+[exercises.part04-17_length_of_list]
+id = 193524
+checksum = "9cf301b09fb83f206150464f85ccd02a"
+
+[exercises.part04-18_mean]
+id = 193534
+checksum = "01b651dbdb6640536c204869fcd8b00c"
+
+[exercises.part04-19_range_of_list]
+id = 193526
+checksum = "1e08e6ac5c0c63ebc66d9d69e84476f4"
+
+[exercises.part04-20_star_studded]
+id = 193518
+checksum = "fbcab2d08087887a4d8b27feb6788e11"
+
+[exercises.part04-21_negative_to_positive]
+id = 193517
+checksum = "4f046841f26c7e9b7ab128f206d70494"
+
+[exercises.part04-22_list_of_stars]
+id = 193508
+checksum = "2108df6cb9ee42c1dd995ae0847a3a38"
